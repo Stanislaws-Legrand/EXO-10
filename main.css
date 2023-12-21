@@ -1,0 +1,12 @@
+.DivA{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(42, 44, 165);
+}
+
+.nouvelleClasse {
+    background-color: lightblue;
+    color: red;
+    font-weight: bold;
+    /* Ajoutez d'autres styles selon vos besoins */
+  }
